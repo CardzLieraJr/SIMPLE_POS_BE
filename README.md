@@ -31,17 +31,22 @@ It supports inventory management, transaction processing, image uploads, and rea
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
+```
 server/
 │── api/
-│ ├── inventory.js
-│ ├── transactions.js
+│   ├── inventory.js
+│   ├── transactions.js
 │
-│── uploads/ # Uploaded images
+│── uploads/          # Uploaded images
+│
 │── database/
-│ └── db.js
+│   └── db.js
 │
-│── index.js # Main server file
+│── index.js          # Main server file
 │── package.json
+```
 
 ---
 
