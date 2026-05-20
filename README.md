@@ -1,8 +1,4 @@
-/* =========================================
-   REAL TIME POS SYSTEM (NODE + SQLITE + SOCKET.IO)
-========================================= */
-
-# Real Time POS System
+# REAL TIME POS SYSTEM (NODE + SQLITE + SOCKET.IO)
 
 A **Real-Time Point of Sale (POS) backend system** built with Node.js, Express, SQLite, and Socket.IO.  
 It supports inventory management, transaction processing, image uploads, and real-time cart synchronization.
