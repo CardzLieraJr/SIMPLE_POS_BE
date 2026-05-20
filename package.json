@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Node.js application that connects the react-pos app to database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Cardz",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.5",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3",
+    "multer": "^2.1.1",
+    "socket.io": "^4.8.3",
+    "sqlite3": "^6.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
