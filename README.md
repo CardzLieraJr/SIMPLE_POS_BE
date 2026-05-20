@@ -31,8 +31,6 @@ It supports inventory management, transaction processing, image uploads, and rea
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```
 server/
 │── api/
